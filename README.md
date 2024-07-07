@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Ignacio-Cire
+# 👋 Hi, I’m Ignacio Cire
 
 ## About Me
 - 🌱 I’m currently learning web development with a focus on **PHP, SQL, HTML, CSS, and JavaScript**.
