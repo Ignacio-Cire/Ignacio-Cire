@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm passionate about enhancing user experiences and love experimenting with new web technologies.
 
 
-##Contacto
+
 ## How to Reach Me
 
 - 📫 Email: [gabriel.cire@est.fi.uncoma.edu.ar](mailto:gabriel.cire@est.fi.uncoma.edu.ar)
