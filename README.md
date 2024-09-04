@@ -15,7 +15,7 @@
 - ⚡ Dato curioso: me apasiona mejorar las experiencias de usuario y me encanta experimentar con nuevas tecnologías web.
 
 
- ## Lenguajes en proceso...  
+## Lenguajes en proceso...  
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -40,6 +40,7 @@
     <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/linux.gif" width="100">
   </a>
 </div>
+
 
 
 ## About Me
