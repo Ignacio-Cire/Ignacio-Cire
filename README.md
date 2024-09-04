@@ -5,6 +5,8 @@
               ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
               ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100">
+
 
 ## Sobre Mi
 - 🌱 Actualmente estoy aprendiendo desarrollo web con un enfoque en PHP, SQL, HTML, CSS y JavaScript.
@@ -13,7 +15,7 @@
 - ⚡ Dato curioso: me apasiona mejorar las experiencias de usuario y me encanta experimentar con nuevas tecnologías web.
 
 
-  ## Lenguajes en proceso...
+  ## Lenguajes en proceso...  
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
