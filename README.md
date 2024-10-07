@@ -39,9 +39,7 @@
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/mysql.gif" width="100">
-  </a>
+ 
   <a href="https://www.kernel.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/linux.gif" width="100">
   </a>
