@@ -15,7 +15,7 @@
 
 
 ## Sobre Mi
-- 🌱 Actualmente estoy aprendiendo desarrollo web con un enfoque en PHP, SQL, HTML, CSS, JavaScript y Linux.
+- 🌱 Actualmente estoy aprendiendo desarrollo web con un enfoque en PHP, SQL, HTML, CSS, JavaScript, django, python y Linux.
 - 👀 Estoy interesado en construir sitios web dinámicos y responsivos.
 - 💞️ Estoy buscando colaborar en proyectos que involucren la creación de aplicaciones web o la mejora de sitios web existentes.
 - ⚡ Dato curioso: me apasiona mejorar las experiencias de usuario y me encanta experimentar con nuevas tecnologías web.
